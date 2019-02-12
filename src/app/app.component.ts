@@ -28,4 +28,6 @@ export class AppComponent {
 
   fecha = new Date();
   video = 'XGX3cZAW76s';
+  password = 'edwar4444';
+  activo= true;
 }
